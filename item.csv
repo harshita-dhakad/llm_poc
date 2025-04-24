@@ -1,0 +1,1001 @@
+item_id,restaurant_id,item_name,category,price
+8119,15,Boeuf Bourguignon,French,1124
+902,366,Polenta,Italian,463
+7375,8,Baklava,Desserts,518
+6497,218,Tom Yum Soup,Thai,488
+5900,61,Ceviche,Seafood,475
+2129,339,Grilled Prawns,Seafood,395
+6898,264,Massaman Curry,Thai,1256
+9771,288,Masala Dosa,Indian,511
+1083,244,Kimchi,Korean,332
+2845,235,Mole Poblano,Mexican,1043
+5918,101,Menudo,Mexican,606
+9754,187,Boeuf Bourguignon,French,1245
+6978,172,Garlic Bread,Appetiser,1170
+7809,48,Kabsa,Middle Eastern,1366
+7945,251,French Onion Soup,French,1346
+6272,263,Stuffed Peppers,Healthy,923
+6629,176,Onion Rings,Appetiser,237
+9594,410,Pancakes,American,508
+1526,164,Bulgogi,Korean,499
+4400,473,Fattoush,Middle Eastern,934
+5197,166,Jerk Chicken,Caribbean,332
+770,63,Mozzarella Sticks,Appetiser,276
+7382,254,Tonkatsu,Japanese,597
+410,28,Kofta,Middle Eastern,931
+9913,284,Lobster Roll,American,1260
+9137,235,Nachos,Appetiser,490
+679,84,Fried Chicken,Fast Food,988
+9049,96,Okonomiyaki,Japanese,592
+4267,282,Donuts,Fast Food,178
+9796,231,Dosa,Indian,1472
+4084,71,Meatloaf,American,995
+8538,29,Baozi,Chinese,606
+6015,372,Tacos,Mexican,407
+4672,184,Sangria,Beverage,821
+599,216,Papaya Salad,Thai,339
+4679,321,Smoothie Bowl,Healthy,1453
+2615,438,Coconut Water,Beverage,408
+5256,318,Duck Confit,French,587
+6370,479,Soufflé,French,760
+6415,98,Elote,Mexican,250
+8093,453,Grilled Salmon,Seafood,1208
+5891,436,Labneh,Middle Eastern,399
+8951,462,Pudding,Desserts,1313
+3004,464,Arancini,Italian,937
+9440,413,Jerk Chicken,Caribbean,1478
+2244,67,Margherita Pizza,Italian,1327
+6787,170,Brown Rice Bowl,Healthy,1500
+1723,124,Nachos,Appetiser,573
+816,369,Teriyaki Chicken,Japanese,1410
+8963,481,Fried Plantains,Caribbean,469
+3177,272,Meatloaf,Main Course,287
+5305,484,Tamales,Mexican,915
+4734,4,Nachos,Appetiser,361
+5152,18,Vegan Ice Cream,Vegan,275
+3115,403,Chole Bhature,Indian,1048
+3687,374,Tom Yum Soup,Thai,416
+7600,140,Grilled Cheese,Fast Food,464
+7160,401,Roti,Caribbean,982
+8928,422,Milkshake,Beverage,1001
+6140,198,Pina Colada,Beverage,437
+3035,458,Udon,Japanese,756
+5947,268,Teriyaki Chicken,Japanese,1046
+8985,258,Samosa,Appetiser,176
+8480,458,Stuffed Mushrooms,Appetiser,1345
+9706,351,Green Tea,Beverage,1388
+3538,169,Kofta,Middle Eastern,1115
+1358,204,Jerk Chicken,Caribbean,1092
+156,376,Kung Pao Chicken,Chinese,197
+6553,282,Dolma,Mediterranean,1249
+560,129,Roasted Cauliflower Steaks,Vegan,445
+1282,283,Greek Salad,Mediterranean,1438
+1349,318,Coconut Shrimp,Caribbean,1101
+277,224,Fish & Chips,Main Course,1308
+2290,298,Falafel,Mediterranean,1097
+6923,406,Oatmeal,Healthy,450
+3443,114,Ceviche,Seafood,332
+3695,162,Fried Plantains,Caribbean,1158
+7855,377,Crème Brûlée,French,906
+8039,241,Sangria,Beverage,1006
+429,281,Panang Curry,Thai,758
+1195,256,Crispy Calamari,Appetiser,1198
+1293,492,Chicken and Waffles,American,779
+4444,107,Kimchi Jjigae,Korean,1003
+2109,208,Orange Juice,Beverage,424
+5907,11,Massaman Curry,Thai,1213
+8964,226,Guacamole,Mexican,774
+4363,143,Sushi,Japanese,296
+3496,183,Panang Curry,Thai,971
+6491,39,Philly Cheesesteak,American,575
+2499,488,Brown Rice Bowl,Healthy,1145
+4700,45,Oysters,Seafood,930
+4766,24,Greek Salad,Mediterranean,208
+5304,304,Baguette,French,1340
+3255,368,Chickpea Salad,Vegan,324
+5169,371,Dolma,Mediterranean,267
+2985,421,Grilled Salmon,Seafood,871
+7562,287,Stuffed Mushrooms,Appetiser,1008
+1990,181,Greek Salad,Mediterranean,485
+7528,67,Duck Confit,French,314
+7036,318,Yakitori,Japanese,526
+4849,63,Falafel,Mediterranean,963
+4199,435,Tarte Tatin,French,1225
+312,34,Carrot Cake,Desserts,210
+502,389,Kale Salad,Healthy,1139
+5494,310,Chili Cheese Fries,Fast Food,1297
+834,441,Chow Mein,Chinese,1131
+2829,388,Mushroom Risotto,Vegan,1117
+9857,356,Coq au Vin,French,884
+6246,50,Gulab Jamun,Desserts,1372
+2079,18,Carrot Cake,Desserts,502
+9834,232,Bruschetta,Italian,225
+2036,474,Pancakes,American,425
+7522,25,BBQ Chicken,Main Course,650
+1335,4,Kibbeh,Mediterranean,965
+4322,214,Tabbouleh,Mediterranean,1144
+993,94,Spinach Artichoke Dip,Appetiser,389
+4736,194,Crab Cakes,Seafood,959
+3292,403,Cornbread,American,770
+2728,362,Philly Cheesesteak,American,992
+94,209,Kimchi,Korean,1247
+2915,14,Gnocchi,Italian,1387
+3156,51,Bossam,Korean,1446
+6271,9,Avocado Toast,Healthy,980
+2174,413,Moussaka,Main Course,859
+4798,373,Oysters,Seafood,1076
+3545,366,Ceviche,Seafood,1235
+7009,380,Pasta Carbonara,Italian,1063
+5562,155,Kale Salad,Healthy,963
+4029,419,Jerk Chicken,Caribbean,577
+1338,486,Ice Cream,Desserts,1016
+6073,249,Pad See Ew,Thai,1428
+4379,473,Baguette,French,301
+3798,98,Thai Fried Rice,Thai,322
+7350,90,Pudding,Desserts,1483
+5928,204,Vada Pav,Indian,1380
+4270,470,Baba Ganoush,Middle Eastern,1212
+5196,316,Mac and Cheese,American,969
+1884,203,Fried Plantains,Caribbean,273
+3100,117,Quiche Lorraine,French,822
+7661,101,Soufflé,French,1064
+2676,2,Kimchi,Korean,1268
+9941,333,Lobster Roll,American,793
+3042,332,Fried Plantains,Caribbean,1134
+5893,120,Chickpea Salad,Vegan,369
+2493,123,Peking Duck,Chinese,1237
+536,9,Chia Pudding,Healthy,1405
+3332,403,Curry Goat,Caribbean,535
+6866,428,Fattoush,Middle Eastern,1485
+3646,188,Panna Cotta,Desserts,1231
+102,352,Pina Colada,Beverage,1264
+5757,3,Masala Dosa,Indian,1346
+5959,39,Shakshuka,Mediterranean,959
+4808,39,Coca-Cola,Beverage,876
+7905,62,Minestrone Soup,Italian,265
+1422,420,Spinach Artichoke Dip,Appetiser,825
+3029,309,Macarons,French,463
+802,456,Green Curry,Thai,1196
+7053,153,Soufflé,French,1331
+3953,4,Enchiladas,Mexican,668
+4567,193,Sopes,Mexican,599
+2073,293,Quinoa Salad,Healthy,1392
+4725,96,Cupcakes,Desserts,879
+6430,82,Satay Skewers,Thai,1260
+8068,343,Jackfruit Tacos,Vegan,559
+8488,348,Quinoa Salad,Healthy,1288
+1966,301,Kung Pao Chicken,Chinese,526
+897,132,Chicken and Waffles,American,667
+6621,78,Pozole,Mexican,531
+5758,352,Hummus,Middle Eastern,1248
+7231,193,Baklava,Mediterranean,1383
+6465,287,Shawarma,Middle Eastern,200
+8127,384,Orange Juice,Beverage,588
+3876,399,Donuts,Desserts,1159
+2657,285,Milkshake,Beverage,316
+9664,437,Cornbread,American,283
+1254,49,Kimchi Jjigae,Korean,520
+3411,498,Coq au Vin,French,434
+1241,473,Sliders,Fast Food,1227
+5761,291,Oatmeal,Healthy,566
+2634,420,Takoyaki,Japanese,920
+455,410,Ribs,Main Course,795
+5047,135,Baba Ganoush,Mediterranean,509
+232,154,Quesadillas,Mexican,1130
+3737,368,Tonkatsu,Japanese,692
+501,150,Onion Rings,Appetiser,1235
+9043,193,Stuffed Bell Peppers,Vegan,304
+6084,138,Coffee,Beverage,1128
+158,377,Fish Sandwich,Fast Food,1493
+728,368,Burgers,Main Course,1234
+5105,427,Mussels in Garlic Butter,Seafood,595
+6320,440,Buffalo Wings,American,412
+6921,127,Mac and Cheese,American,1117
+978,462,Kunafa,Middle Eastern,789
+421,89,Bulgogi,Korean,823
+8077,430,Vegan Ice Cream,Vegan,565
+2200,472,Gimbap,Korean,842
+9317,175,Kibbeh,Mediterranean,317
+4070,233,Okonomiyaki,Japanese,247
+3052,345,Jerk Chicken,Caribbean,288
+2892,85,Tacos,Fast Food,187
+4690,6,Tiramisu,Italian,529
+3813,239,Tteokbokki,Korean,858
+1789,452,Margherita Pizza,Italian,875
+2832,106,Falafel,Middle Eastern,1160
+1373,166,Okonomiyaki,Japanese,329
+7490,146,Falafel,Middle Eastern,566
+5904,161,Onion Rings,Appetiser,211
+2383,471,Onion Rings,Appetiser,493
+7437,450,Ice Cream,Desserts,542
+5075,425,Pasta Alfredo,Main Course,1023
+3218,55,Soufflé,French,1255
+614,290,Lentil Soup,Vegan,979
+3484,453,Chia Pudding,Healthy,714
+2842,177,Mojito,Beverage,1385
+3249,158,Fish Tacos,Seafood,701
+7047,171,Coconut Water,Beverage,1321
+2953,355,Crème Brûlée,French,1445
+8935,111,Kimchi,Korean,1219
+3123,147,Papaya Salad,Thai,1058
+608,84,Mushroom Risotto,Vegan,1077
+4791,377,Bulgogi,Korean,618
+5859,153,Biryani,Main Course,745
+9012,424,Lentil Soup,Vegan,1189
+1665,5,Soufflé,French,1436
+6426,422,Massaman Curry,Thai,1140
+2272,144,Arancini,Italian,217
+7731,44,Guacamole,Mexican,906
+6472,167,Quiche Lorraine,French,663
+4608,39,Pizza,Fast Food,606
+3776,329,Shakshuka,Mediterranean,491
+2168,353,Brown Rice Bowl,Healthy,1299
+5441,27,Coconut Shrimp,Caribbean,824
+8841,257,Gimbap,Korean,330
+9262,341,Focaccia Bread,Italian,953
+5165,409,Roti,Caribbean,201
+1732,210,Hot and Sour Soup,Chinese,1293
+9551,358,Vegan Burger,Vegan,585
+3569,318,Kofta,Middle Eastern,758
+5913,389,Soba Noodles,Japanese,880
+9373,289,Crème Brûlée,French,376
+6418,209,BBQ Chicken,Main Course,1210
+3983,438,Shabu Shabu,Japanese,511
+7576,301,Ackee and Saltfish,Caribbean,1233
+6398,64,Quinoa Salad,Healthy,1186
+4709,54,Baba Ganoush,Middle Eastern,578
+9495,136,Baguette,French,171
+3010,15,Gulab Jamun,Desserts,378
+7702,436,Kofta,Middle Eastern,173
+9859,124,Pudding,Desserts,340
+8837,129,Hot and Sour Soup,Chinese,681
+1706,425,Papaya Salad,Thai,417
+8376,86,Clam Chowder,Seafood,223
+449,137,Jerk Chicken,Caribbean,461
+108,66,Sundubu Jjigae,Korean,1411
+3862,97,Baba Ganoush,Mediterranean,887
+1787,386,Rajma Chawal,Indian,464
+7285,195,Arancini,Italian,528
+6965,328,Sushi,Japanese,302
+7835,2,Udon,Japanese,839
+2449,107,Chicken and Waffles,American,1059
+4813,224,Bolognese,Italian,1085
+6949,446,Ratatouille,French,992
+37,453,Spring Rolls,Appetiser,584
+4327,198,Korean BBQ,Korean,783
+9092,225,Macarons,French,325
+7743,241,Peking Duck,Chinese,315
+244,103,Pavlova,Desserts,271
+4518,225,Tacos,Mexican,169
+658,458,Samosa,Indian,1412
+3808,98,Enchiladas,Mexican,562
+7111,80,Cheesecake,Desserts,913
+1510,94,Fish Tacos,Seafood,849
+1139,456,Tiramisu,Italian,1417
+6149,71,Shawarma,Fast Food,634
+6435,167,Dumplings,Chinese,331
+5109,234,Soufflé,French,1177
+2973,275,Papaya Salad,Thai,785
+6953,473,Vegan Burger,Vegan,842
+6809,76,Mango Sticky Rice,Thai,1043
+989,364,Ramen,Japanese,667
+3113,21,Fried Plantains,Caribbean,1312
+9560,349,Rajma Chawal,Indian,762
+3792,192,Tiramisu,Desserts,247
+5504,1,Baba Ganoush,Mediterranean,1130
+2317,77,Coq au Vin,French,1071
+8816,66,Brown Rice Bowl,Healthy,851
+5297,18,Spanakopita,Mediterranean,1410
+8227,429,Sundubu Jjigae,Korean,1394
+7802,53,Tamales,Mexican,902
+7046,378,Menudo,Mexican,843
+4544,112,Mac and Cheese,American,1386
+1854,86,Mushroom Risotto,Vegan,226
+9375,176,Grilled Cheese,Fast Food,536
+2898,249,Sundubu Jjigae,Korean,171
+4894,164,Mango Sticky Rice,Thai,283
+7252,44,Gyros,Mediterranean,604
+9152,235,Meatloaf,Main Course,324
+3152,434,Bossam,Korean,325
+7579,240,Stuffed Bell Peppers,Vegan,1009
+2648,170,Meatloaf,Main Course,575
+3432,59,Crab Cakes,Seafood,1430
+3242,177,Smoothie Bowl,Healthy,696
+7117,460,Papaya Salad,Thai,773
+7839,486,Udon,Japanese,559
+4372,478,Udon,Japanese,283
+4088,214,Wonton Soup,Chinese,1129
+5706,152,Fried Rice,Chinese,743
+6526,458,Kofta,Middle Eastern,1145
+8264,187,Mango Sticky Rice,Desserts,422
+8986,241,Focaccia Bread,Italian,1268
+2365,137,Gyros,Mediterranean,698
+6362,111,Chicken and Waffles,American,312
+6565,19,Udon,Japanese,1381
+5938,425,Chia Pudding,Healthy,1246
+8254,129,Fajitas,Mexican,342
+5323,299,Green Tea,Beverage,1085
+351,311,Gnocchi,Italian,663
+6570,99,Thai Fried Rice,Thai,506
+4426,247,Coconut Shrimp,Caribbean,1107
+5184,242,Margherita Pizza,Italian,591
+6416,409,Ravioli,Italian,1211
+1943,287,Quesadillas,Mexican,620
+9385,257,Green Curry,Thai,869
+6013,372,Baguette,French,297
+6141,291,Callaloo,Caribbean,1431
+2311,342,Kofta,Middle Eastern,1204
+4190,12,Apple Pie,Desserts,831
+79,239,Steak,Main Course,750
+4565,70,Pancakes,American,1323
+167,116,Dosa,Indian,341
+3578,149,Mac and Cheese,American,658
+483,468,Peking Duck,Chinese,545
+3099,442,Chia Pudding,Healthy,403
+3141,14,Tacos,Mexican,1290
+9687,188,Cornbread,American,1499
+5686,105,Roasted Cauliflower Steaks,Vegan,176
+3654,160,Quesadillas,Mexican,580
+7593,484,Pudding,Desserts,868
+1869,234,Chickpea Salad,Vegan,336
+9479,273,Baingan Bharta,Indian,643
+5660,81,Chickpea Salad,Vegan,1079
+2670,1,Thai Fried Rice,Thai,380
+9324,429,Orange Juice,Beverage,1077
+6524,347,Pita Bread,Mediterranean,1183
+9116,340,Bibimbap,Korean,359
+9901,223,Chili Cheese Fries,Fast Food,933
+5497,67,Kunafa,Middle Eastern,1229
+5139,126,Fried Rice,Chinese,685
+6723,121,Kimchi Jjigae,Korean,598
+6694,76,Crispy Calamari,Appetiser,974
+431,330,Fried Chicken,Fast Food,731
+8389,305,Caprese Salad,Appetiser,1317
+1459,264,Baklava,Desserts,555
+3462,476,Coca-Cola,Beverage,1077
+7168,71,Kimchi Jjigae,Korean,1224
+4950,41,Dumplings,Chinese,936
+7741,417,Papaya Salad,Thai,1152
+1432,281,Dosa,Indian,1151
+2396,150,Tom Yum Soup,Thai,999
+1056,410,Samosa,Indian,669
+9722,163,Oatmeal,Healthy,1372
+6917,409,Lentil Soup,Healthy,559
+8802,127,Brownie,Desserts,940
+3003,49,Sundubu Jjigae,Korean,915
+8198,466,Hot Dogs,Fast Food,1147
+5485,396,Ackee and Saltfish,Caribbean,712
+2045,222,Tiramisu,Desserts,462
+1741,182,Fajitas,Mexican,409
+7310,58,Fried Plantains,Caribbean,615
+6888,141,Shawarma,Middle Eastern,886
+11,104,Buffalo Wings,American,948
+7488,255,Tamales,Mexican,923
+1725,184,Ceviche,Seafood,1303
+7173,383,Margherita Pizza,Italian,1147
+7185,443,Tom Yum Soup,Thai,1054
+9079,29,Smoothie Bowl,Healthy,1128
+1493,62,Smoothie Bowl,Healthy,247
+3901,388,Mac and Cheese,American,717
+4455,82,Pad Thai,Thai,1281
+6530,199,Butter Chicken,Indian,633
+7293,132,Tom Yum Soup,Thai,1352
+1215,369,Quinoa Salad,Healthy,1465
+8344,175,Oysters,Seafood,871
+8194,68,Fajitas,Mexican,776
+7388,219,Quiche Lorraine,French,1077
+3405,40,Chicken Wings,Appetiser,342
+2835,56,Boeuf Bourguignon,French,1200
+6468,314,Coconut Shrimp,Caribbean,1032
+5443,22,Grilled Chicken,Main Course,1008
+3176,422,French Onion Soup,French,996
+6120,314,Gimbap,Korean,928
+3853,482,Shawarma,Fast Food,335
+5778,204,Grilled Salmon,Healthy,443
+2112,366,Tempura,Japanese,973
+810,412,Carrot Cake,Desserts,581
+5837,193,Pasta Carbonara,Italian,351
+8401,10,Onion Rings,Appetiser,1042
+486,444,Roast Lamb,Main Course,673
+5207,278,Buffalo Wings,American,260
+5596,222,Sweet and Sour Pork,Chinese,408
+6520,402,Papaya Salad,Thai,1262
+996,422,Onion Rings,Appetiser,691
+5374,472,Fried Plantains,Caribbean,306
+234,353,Idli,Indian,656
+7751,462,Quesadillas,Mexican,255
+9497,265,Tacos,Fast Food,1425
+9171,78,Buffalo Wings,American,1048
+7519,31,Tempura,Japanese,684
+6655,222,Pad Thai,Thai,1219
+7722,356,Caprese Salad,Appetiser,529
+1932,428,Pasta Carbonara,Italian,1189
+5813,80,Quesadillas,Mexican,1343
+2046,385,Stuffed Peppers,Healthy,812
+8594,314,Pina Colada,Beverage,1411
+6691,95,Tarte Tatin,French,164
+6706,354,Grilled Prawns,Seafood,749
+5201,282,Lasagna,Italian,702
+3356,234,Lentil Soup,Vegan,231
+8927,218,Quinoa Salad,Healthy,930
+6954,475,Jerk Chicken,Caribbean,1293
+185,11,Cacciucco,Italian,697
+8739,168,Pozole,Mexican,940
+5034,465,Tacos,Mexican,262
+4200,244,Ceviche,Seafood,971
+5210,161,Osso Buco,Italian,338
+5208,58,Mushroom Risotto,Vegan,1383
+9490,56,Orange Juice,Beverage,1375
+2510,325,Tacos,Fast Food,1046
+159,412,Spring Rolls,Appetiser,279
+9951,261,Baguette,French,449
+5069,210,Baguette,French,408
+5527,239,Baguette,French,490
+9965,27,Elote,Mexican,1037
+3968,211,Fish Sandwich,Fast Food,887
+4330,68,Tarte Tatin,French,730
+9222,123,Lasagna,Main Course,280
+2149,52,Fish Tacos,Seafood,1223
+3734,138,Crème Brûlée,Desserts,1267
+7307,342,Soba Noodles,Japanese,711
+2051,332,Nachos,Appetiser,454
+499,349,Chickpea Salad,Vegan,1282
+3717,305,Tteokbokki,Korean,793
+3544,408,Hummus with Pita,Appetiser,433
+2261,342,Falafel,Mediterranean,952
+2287,145,Kibbeh,Mediterranean,317
+9899,463,Ceviche,Seafood,583
+5594,124,Dal Makhani,Indian,1295
+7625,467,Vegan Burger,Vegan,1149
+4378,103,Sweet and Sour Pork,Chinese,589
+9060,310,Caprese Salad,Italian,971
+7694,371,Ackee and Saltfish,Caribbean,837
+8965,267,Hummus,Mediterranean,712
+9634,106,Jerk Chicken,Caribbean,233
+9781,358,Fried Plantains,Caribbean,816
+8417,418,Manchurian,Chinese,1460
+56,473,Mozzarella Sticks,Appetiser,1268
+1289,128,Curry Goat,Caribbean,1294
+8482,401,Rajma Chawal,Indian,426
+2763,105,Onion Rings,Appetiser,1045
+6662,95,Shabu Shabu,Japanese,1351
+4512,3,Mojito,Beverage,557
+1737,210,Tarte Tatin,French,465
+6461,366,Cupcakes,Desserts,792
+8593,394,Cheesecake,Desserts,1027
+5177,78,Korean BBQ,Korean,464
+9637,326,Hummus,Mediterranean,580
+8191,118,Tiramisu,Desserts,841
+9524,472,BBQ Ribs,American,561
+5406,464,Kibbeh,Mediterranean,695
+808,243,Caprese Salad,Appetiser,1029
+9106,497,Roti,Caribbean,1154
+4911,468,Tiramisu,Italian,1071
+1738,332,Vegan Burger,Vegan,401
+4179,156,Lemonade,Beverage,1282
+6722,228,Char Siu,Chinese,1341
+7834,29,Focaccia Bread,Italian,1326
+3507,347,Dal Makhani,Indian,1372
+39,370,Corn Dogs,Fast Food,306
+4142,483,Philly Cheesesteak,American,1258
+3767,128,Caprese Salad,Italian,796
+40,68,Chicken Wings,Appetiser,835
+1547,185,Hot and Sour Soup,Chinese,248
+3989,173,Massaman Curry,Thai,543
+9622,245,Dumplings,Chinese,702
+1100,26,Philly Cheesesteak,American,1472
+287,217,Ceviche,Seafood,1375
+8564,215,Tabbouleh,Mediterranean,400
+9569,233,Vada Pav,Indian,698
+3258,463,Corn Dogs,Fast Food,419
+1384,148,Kofta,Middle Eastern,1295
+7710,250,Kofta,Middle Eastern,1192
+9338,96,Shawarma,Middle Eastern,1447
+3935,43,French Onion Soup,French,963
+3886,337,Ceviche,Seafood,1097
+4309,425,Donuts,Fast Food,1290
+184,149,Fried Chicken,Fast Food,1307
+6377,469,Ratatouille,French,210
+7075,302,Shrimp Scampi,Seafood,1336
+6298,168,Baguette,French,1393
+7772,33,Sundubu Jjigae,Korean,875
+7542,210,Baklava,Mediterranean,1303
+5127,293,Hot and Sour Soup,Chinese,1262
+1448,108,Fajitas,Mexican,1236
+2008,428,Enchiladas,Mexican,651
+7101,219,Gimbap,Korean,528
+1900,72,Kung Pao Chicken,Chinese,216
+6796,467,Chickpea Salad,Vegan,1361
+2060,61,Chili Cheese Fries,Fast Food,860
+1611,125,Grilled Chicken,Main Course,400
+3267,37,Ceviche,Seafood,208
+2897,18,Lentil Soup,Vegan,704
+5283,437,Vegan Pizza,Vegan,1225
+7472,160,Chia Pudding,Healthy,267
+8904,135,Grilled Cheese,Fast Food,981
+5437,112,Stuffed Bell Peppers,Main Course,444
+817,455,Pita Bread,Mediterranean,1206
+2416,216,Palak Paneer,Indian,309
+1118,255,Fruit Punch,Beverage,761
+8615,171,Clam Chowder,Seafood,250
+9562,462,Pancakes,American,229
+3925,424,Espresso,Beverage,983
+9112,49,Biryani,Main Course,403
+7214,94,Larb,Thai,601
+6716,109,Baingan Bharta,Indian,1248
+4188,484,Enchiladas,Mexican,581
+8136,17,Grilled Chicken,Main Course,1110
+1108,263,Chawanmushi,Japanese,944
+3013,357,Samgyeopsal,Korean,460
+5020,248,Roasted Cauliflower Steaks,Vegan,373
+3039,237,Gyros,Mediterranean,1313
+2693,228,Mango Sticky Rice,Desserts,574
+7698,289,Butter Chicken,Indian,564
+9865,493,Tacos,Main Course,1303
+9811,251,Bibimbap,Korean,748
+4689,116,Sangria,Beverage,1243
+9989,339,Chicken Wings,Appetiser,834
+4663,34,Stuffed Peppers,Healthy,266
+6289,67,Matcha Tea,Beverage,440
+5463,166,Soba Noodles,Japanese,955
+3134,72,Labneh,Middle Eastern,1424
+5188,393,Coconut Water,Beverage,714
+5997,496,Coca-Cola,Beverage,1313
+6237,347,Pad Thai,Thai,615
+9797,404,Samosa,Appetiser,270
+7508,64,Meatloaf,Main Course,1303
+5750,231,Pina Colada,Beverage,1237
+2645,37,Polenta,Italian,897
+2216,202,Meatloaf,American,425
+1105,425,Fajitas,Mexican,1465
+4275,395,Rice and Peas,Caribbean,487
+7385,96,Masala Dosa,Indian,739
+4430,163,Tacos,Main Course,527
+3225,254,Quiche Lorraine,French,590
+6291,235,Panang Curry,Thai,772
+7104,150,Grilled Salmon,Healthy,1021
+9873,442,Jambalaya,American,241
+524,397,Zoodle Pasta,Healthy,793
+8268,10,Larb,Thai,198
+361,497,Callaloo,Caribbean,579
+8339,332,Fattoush,Middle Eastern,161
+7147,425,Panna Cotta,Italian,1281
+8779,445,Char Siu,Chinese,979
+471,378,Shawarma,Middle Eastern,596
+1962,262,Tofu Stir-fry,Vegan,1498
+7257,309,Tonkatsu,Japanese,208
+2476,499,Quesadillas,Mexican,306
+3958,464,Rice and Peas,Caribbean,940
+4817,241,Hummus,Middle Eastern,1352
+3841,410,Smoothie Bowl,Healthy,340
+6609,101,Sarson Da Saag,Indian,504
+8788,101,Samosa,Appetiser,597
+6506,128,Dolma,Mediterranean,986
+4164,259,Oatmeal,Healthy,1331
+1146,365,French Onion Soup,French,1242
+4259,369,Clam Chowder,Seafood,1277
+2883,395,Tempura,Japanese,747
+3796,486,Jambalaya,American,306
+1490,217,Spanakopita,Mediterranean,1458
+343,400,Quesadillas,Mexican,452
+7304,122,Lobster Bisque,Seafood,808
+2315,118,Bossam,Korean,820
+7634,83,Masala Dosa,Indian,1440
+4706,46,Mango Sticky Rice,Thai,890
+4832,411,Rogan Josh,Indian,743
+7341,452,Smoothie Bowl,Healthy,1338
+8311,440,Donuts,Fast Food,190
+5015,290,Burritos,Mexican,479
+8994,444,Hyderabadi Biryani,Indian,907
+6860,158,Grilled Salmon,Seafood,524
+258,424,Hummus,Middle Eastern,538
+8597,148,Clam Chowder,Seafood,938
+4264,389,Hot Dogs,Fast Food,273
+9602,420,Korean BBQ,Korean,1205
+2220,462,Enchiladas,Mexican,494
+1198,48,Carrot Cake,Desserts,1330
+691,27,Vegan Pizza,Vegan,1001
+5206,137,Rice and Peas,Caribbean,1095
+922,488,Udon,Japanese,1331
+5520,248,Chicken Wings,Appetiser,427
+3791,126,Eclairs,Desserts,925
+4122,381,Mushroom Risotto,Vegan,192
+5780,164,Tiramisu,Desserts,1137
+9591,187,Baba Ganoush,Mediterranean,721
+5344,335,Miso Soup,Japanese,207
+2460,122,Margherita Pizza,Italian,534
+5638,431,Coconut Water,Beverage,903
+8074,181,Nachos,Appetiser,1408
+2133,56,Pad Thai,Thai,679
+1860,190,Menudo,Mexican,1420
+7691,266,Baba Ganoush,Middle Eastern,1105
+3073,6,Cornbread,American,1436
+5221,454,Paneer Butter Masala,Main Course,254
+2014,108,Korean BBQ,Korean,1391
+4775,495,Chocolate Mousse,Desserts,985
+9187,176,Donuts,Desserts,1397
+6848,482,Elote,Mexican,1242
+5287,107,Milkshake,Beverage,853
+4356,472,Chawanmushi,Japanese,1286
+9778,272,Tempura,Japanese,1252
+5665,105,Falafel,Middle Eastern,1412
+7973,112,Vegan Burger,Vegan,524
+5002,111,Hummus,Middle Eastern,183
+3664,198,Lobster Roll,American,319
+7141,142,Stuffed Peppers,Healthy,364
+5862,161,Pad Thai,Thai,365
+573,246,Quiche Lorraine,French,1035
+5159,37,Mussels in Garlic Butter,Seafood,1349
+3108,64,Butter Chicken,Indian,725
+6299,383,Okonomiyaki,Japanese,1343
+8048,241,Minestrone Soup,Italian,1318
+3172,108,Kadai Paneer,Indian,595
+9286,221,Green Curry,Thai,1137
+1111,479,Kofta,Middle Eastern,730
+5818,481,Grilled Chicken,Main Course,766
+6332,233,Paneer Butter Masala,Main Course,871
+7076,493,Bossam,Korean,1111
+6367,153,Grilled Salmon,Healthy,1394
+4076,16,Panna Cotta,Italian,601
+6138,450,Bruschetta,Appetiser,981
+7986,227,Shabu Shabu,Japanese,1485
+9700,381,Jambalaya,American,379
+5229,459,Shabu Shabu,Japanese,1316
+5193,217,Stuffed Bell Peppers,Vegan,257
+5008,274,Jackfruit Tacos,Vegan,595
+2089,178,Shabu Shabu,Japanese,236
+1821,155,Spinach Artichoke Dip,Appetiser,304
+2035,465,Grilled Salmon,Seafood,1083
+2709,41,Tacos,Fast Food,874
+8462,470,Larb,Thai,1453
+2117,5,Lentil Soup,Vegan,540
+5314,420,Milkshake,Beverage,1247
+9098,282,Stuffed Bell Peppers,Vegan,225
+4860,120,Stuffed Mushrooms,Appetiser,625
+4446,410,Coq au Vin,French,559
+6446,74,Margherita Pizza,Italian,545
+3468,460,Hot and Sour Soup,Chinese,405
+3342,144,Fish Tacos,Seafood,764
+3130,333,Mapo Tofu,Chinese,1188
+5131,450,Coffee,Beverage,299
+5601,16,Kunafa,Middle Eastern,676
+4820,92,Roasted Cauliflower Steaks,Vegan,1260
+6200,405,Soufflé,French,1442
+1567,349,Jambalaya,American,1386
+3782,441,Roti,Caribbean,392
+2647,383,Chickpea Salad,Vegan,1163
+3376,326,Gnocchi,Italian,1014
+9205,159,Crispy Calamari,Appetiser,1386
+3203,49,Tuna Tartare,Seafood,981
+447,117,Deviled Eggs,Appetiser,1298
+5392,38,Enchiladas,Mexican,799
+5011,293,Bibimbap,Korean,1318
+4958,232,Ceviche,Seafood,766
+1063,29,Shawarma,Middle Eastern,1131
+4874,389,Baozi,Chinese,166
+1192,86,Shawarma,Fast Food,1029
+2393,175,Coq au Vin,French,865
+9957,132,Chia Pudding,Healthy,200
+7882,134,Vegan Pizza,Vegan,892
+3596,18,Rice and Peas,Caribbean,1213
+4069,415,Enchiladas,Mexican,552
+5322,230,Tofu Stir-fry,Vegan,426
+2719,487,Bolognese,Italian,1007
+2872,396,Kung Pao Chicken,Chinese,549
+1449,280,Thai Fried Rice,Thai,1329
+7621,161,Dumplings,Chinese,894
+673,468,Aloo Paratha,Indian,577
+7420,443,Palak Paneer,Indian,780
+7574,384,Donuts,Fast Food,218
+5209,152,Fish & Chips,Main Course,711
+8456,336,Mojito,Beverage,399
+4172,109,Tom Yum Soup,Thai,844
+2169,247,Sushi,Japanese,1256
+4037,339,Grilled Salmon,Seafood,890
+5347,409,Quinoa Salad,Healthy,644
+3947,6,Hummus,Mediterranean,529
+6296,364,Papaya Salad,Thai,908
+1565,128,Baklava,Mediterranean,909
+1893,333,Minestrone Soup,Italian,1177
+4265,399,Roasted Cauliflower Steaks,Vegan,229
+5963,220,BBQ Chicken,Main Course,568
+1278,467,Chole Bhature,Indian,1423
+394,55,Carrot Cake,Desserts,981
+1271,407,Soba Noodles,Japanese,1153
+1639,470,Biryani,Main Course,1153
+2280,85,Baklava,Mediterranean,215
+3575,380,Kimchi Jjigae,Korean,1469
+8662,43,Sopes,Mexican,266
+5723,74,Baklava,Mediterranean,382
+3319,242,Dim Sum,Chinese,196
+1852,321,Cacciucco,Italian,1058
+1212,191,Baklava,Desserts,359
+1681,376,Quiche Lorraine,French,1333
+5516,498,Oatmeal,Healthy,398
+5379,317,Kunafa,Middle Eastern,679
+852,157,Kunafa,Middle Eastern,1419
+8646,278,Chiles Rellenos,Mexican,1359
+1321,338,Clam Chowder,American,781
+4975,10,Chia Pudding,Healthy,857
+9619,243,Shawarma,Middle Eastern,407
+6579,239,Brown Rice Bowl,Healthy,583
+8663,499,Tarte Tatin,French,563
+9679,436,Cupcakes,Desserts,1335
+8936,163,Fruit Punch,Beverage,1204
+2384,435,Panang Curry,Thai,642
+2818,193,Pina Colada,Beverage,1291
+736,255,Apple Pie,Desserts,600
+4160,394,Corn Dogs,Fast Food,1128
+1887,391,Baba Ganoush,Mediterranean,1049
+1150,47,Char Siu,Chinese,437
+3887,2,Hot Dogs,Fast Food,793
+6488,65,Rajma Chawal,Indian,409
+2471,80,Kimchi,Korean,523
+3478,255,Meatloaf,American,710
+7250,85,Mansaf,Middle Eastern,330
+3993,228,Hummus,Middle Eastern,964
+2466,82,Shrimp Cocktail,Appetiser,731
+7132,170,Tacos,Fast Food,1369
+1211,428,Sarson Da Saag,Indian,562
+919,234,Chow Mein,Chinese,857
+8508,480,Massaman Curry,Thai,551
+5920,58,Chili Cheese Fries,Fast Food,1070
+4292,437,Tamales,Mexican,641
+3992,344,Sopes,Mexican,234
+6076,49,Hummus,Middle Eastern,1250
+2917,418,Soufflé,French,373
+1678,396,Grilled Salmon,Healthy,1346
+9246,454,Bruschetta,Appetiser,1029
+3718,171,Mozzarella Sticks,Appetiser,800
+5613,15,Mango Sticky Rice,Thai,1267
+7912,70,Kofta,Middle Eastern,1299
+1694,167,Jalapeño Poppers,Appetiser,1136
+1134,322,Bolognese,Italian,911
+9519,352,Fajitas,Mexican,515
+7686,171,Focaccia Bread,Italian,505
+8592,343,Hummus,Middle Eastern,1128
+2191,273,Coffee,Beverage,1252
+8259,326,Apple Pie,Desserts,851
+7048,341,Yakitori,Japanese,1355
+8560,367,Oysters,Seafood,898
+2566,245,Pancakes,American,552
+1206,141,Philly Cheesesteak,American,219
+6625,193,Roast Lamb,Main Course,1182
+2642,60,Roasted Cauliflower Steaks,Vegan,1264
+7477,56,Massaman Curry,Thai,722
+8548,193,Pizza,Fast Food,1491
+9828,368,Pani Puri,Indian,246
+8383,366,Jerk Chicken,Caribbean,1139
+2885,223,Vegan Burger,Vegan,893
+847,391,Curry Goat,Caribbean,179
+2146,277,Grilled Cheese,Fast Food,546
+2873,315,Kimchi Jjigae,Korean,528
+4806,285,Steak,Main Course,857
+8743,494,Hummus,Middle Eastern,1009
+9556,291,Pavlova,Desserts,1323
+239,54,Dolma,Mediterranean,985
+8760,199,Bulgogi,Korean,772
+6217,45,Sliders,Fast Food,1280
+549,137,Sweet and Sour Pork,Chinese,811
+8500,351,Shawarma,Fast Food,689
+7328,129,Osso Buco,Italian,1068
+8507,29,Spanakopita,Mediterranean,160
+8809,371,Coq au Vin,French,1420
+288,69,Tempura,Japanese,558
+9618,233,Eclairs,Desserts,1259
+418,30,Roti,Caribbean,307
+3946,268,Fries,Fast Food,382
+4522,115,Sarson Da Saag,Indian,1085
+2412,82,Grilled Chicken,Main Course,1072
+9090,164,Dolma,Mediterranean,460
+5077,476,Churros,Mexican,1277
+5775,40,Moussaka,Mediterranean,1267
+8748,218,Stuffed Bell Peppers,Main Course,1093
+3164,109,Chickpea Salad,Vegan,1408
+2587,156,Ackee and Saltfish,Caribbean,1232
+4505,434,Macarons,French,698
+8606,238,Ackee and Saltfish,Caribbean,933
+7314,206,Baguette,French,890
+7705,478,Stuffed Bell Peppers,Vegan,1084
+8,283,Vada Pav,Indian,1465
+3256,341,Lobster Bisque,Seafood,1094
+9582,171,Fried Chicken,Fast Food,1498
+1114,390,Callaloo,Caribbean,188
+8220,473,Chicken and Waffles,American,194
+6951,297,Sushi,Japanese,1366
+6611,357,Larb,Thai,1399
+217,100,Fried Chicken,Fast Food,735
+3504,86,Guacamole,Mexican,1432
+4712,325,Hot and Sour Soup,Chinese,713
+2480,494,Roast Lamb,Main Course,1457
+2375,271,Rajma Chawal,Indian,708
+5798,193,Fajitas,Mexican,362
+2974,475,Curry Goat,Caribbean,1405
+7888,31,Osso Buco,Italian,196
+6485,204,Meatloaf,American,1063
+2907,250,Stuffed Mushrooms,Appetiser,469
+8669,64,Baba Ganoush,Middle Eastern,1234
+1058,80,Curry Goat,Caribbean,552
+8547,28,Labneh,Middle Eastern,1317
+7109,140,Macarons,Desserts,479
+4887,128,Arancini,Italian,1319
+6082,253,Gulab Jamun,Desserts,370
+783,208,Roasted Cauliflower Steaks,Vegan,917
+3431,14,Vegan Ice Cream,Vegan,1045
+5222,85,Kunafa,Middle Eastern,423
+1094,343,Iced Tea,Beverage,1152
+7898,111,Sangria,Beverage,698
+6871,30,Grilled Salmon,Seafood,855
+197,89,Tiramisu,Italian,305
+875,48,Fried Plantains,Caribbean,1355
+9330,30,Pita Bread,Mediterranean,266
+8043,275,Chicken and Waffles,American,680
+2803,156,Chickpea Salad,Vegan,985
+3822,34,Grilled Salmon,Seafood,369
+3084,430,Mapo Tofu,Chinese,201
+6538,172,Chickpea Salad,Vegan,1133
+496,492,Nachos,Appetiser,542
+9067,35,Jerk Chicken,Caribbean,1037
+7343,290,Duck Confit,French,1085
+130,497,Ribs,Main Course,1101
+9011,119,Shawarma,Middle Eastern,172
+8749,176,Ackee and Saltfish,Caribbean,1161
+6585,7,Tofu Stir-fry,Vegan,1243
+3153,227,Carrot Cake,Desserts,1405
+3128,356,Buffalo Wings,American,870
+850,158,Chicken and Waffles,American,1390
+4108,97,Milkshake,Beverage,1425
+9836,142,Clam Chowder,Seafood,522
+8542,294,Carrot Cake,Desserts,495
+1573,320,Papaya Salad,Thai,858
+7287,453,Minestrone Soup,Italian,1400
+894,31,Kale Salad,Healthy,216
+2525,349,Elote,Mexican,328
+4254,445,Burgers,Main Course,623
+2855,268,Tuna Tartare,Seafood,973
+5921,100,Chickpea Salad,Vegan,949
+7827,335,Paneer Butter Masala,Main Course,939
+899,497,Satay Skewers,Thai,153
+6018,398,Tiramisu,Desserts,1220
+5462,436,Panna Cotta,Italian,595
+7915,97,Panna Cotta,Desserts,452
+1784,369,Soba Noodles,Japanese,1367
+3265,57,Pasta Carbonara,Italian,376
+1851,296,Gyros,Mediterranean,1437
+8161,322,Moussaka,Mediterranean,1146
+765,164,Szechuan Beef,Chinese,1480
+3188,94,Masala Dosa,Indian,656
+3587,153,Chickpea Salad,Vegan,660
+2756,438,Burritos,Mexican,541
+8627,13,Pizza,Fast Food,591
+1517,245,Larb,Thai,782
+5375,468,Sarson Da Saag,Indian,1427
+6111,58,Dal Makhani,Indian,1268
+3720,9,Coq au Vin,French,1491
+8789,385,Satay Skewers,Thai,203
+9302,473,Brown Rice Bowl,Healthy,488
+3735,449,Curry Goat,Caribbean,1321
+340,498,Caprese Salad,Appetiser,396
+1202,260,Ceviche,Seafood,1493
+6358,65,Sopes,Mexican,1173
+2210,332,Chicken Wings,Appetiser,1189
+583,21,Eclairs,Desserts,1421
+5447,13,Tuna Tartare,Seafood,716
+1016,13,Japchae,Korean,981
+2870,384,Ackee and Saltfish,Caribbean,1456
+4226,323,Vegan Ice Cream,Vegan,799
+5881,53,Pad See Ew,Thai,461
+1870,122,Lobster Roll,American,573
+2350,479,Idli,Indian,375
+9636,295,Mozzarella Sticks,Appetiser,1324
+735,365,Carrot Cake,Desserts,656
+3030,114,Pad See Ew,Thai,1429
+5934,47,Caprese Salad,Appetiser,1337
+2043,425,Lasagna,Italian,380
+35,125,Pad Thai,Thai,189
+2706,49,Miso Soup,Japanese,1305
+143,200,Rajma Chawal,Indian,682
+5678,38,Okonomiyaki,Japanese,357
+1598,113,Bulgogi,Korean,1033
+9436,458,Croissant,French,221
+9907,77,Tuna Tartare,Seafood,163
+6365,45,Kabsa,Middle Eastern,256
+767,444,Stuffed Bell Peppers,Main Course,682
+4989,77,Szechuan Beef,Chinese,683
+6896,460,Minestrone Soup,Italian,302
+3630,251,Rogan Josh,Indian,1221
+689,339,Deviled Eggs,Appetiser,255
+4450,493,Satay Skewers,Thai,244
+2424,224,Spinach Artichoke Dip,Appetiser,301
+5123,338,Kibbeh,Mediterranean,813
+48,175,Pita Bread,Mediterranean,1373
+8775,56,Zoodle Pasta,Healthy,1492
+7553,312,Sliders,Fast Food,1017
+8631,357,Croissant,French,636
+9101,9,Grilled Salmon,Seafood,1149
+3833,470,Coca-Cola,Beverage,1350
+5554,145,Chickpea Salad,Vegan,234
+8806,397,Quinoa Salad,Healthy,630
+1927,304,Oysters,Seafood,1046
+7357,402,Vegan Burger,Vegan,437
+2836,291,Baba Ganoush,Mediterranean,387
+5033,346,Mapo Tofu,Chinese,484
+9547,442,Kabsa,Middle Eastern,639
+4879,475,Meatloaf,American,729
+7158,50,Cheesecake,Desserts,972
+9735,328,Arancini,Italian,189
+8777,184,Japchae,Korean,1478
+7264,314,Spring Rolls,Appetiser,1185
+5511,267,Duck Confit,French,924
+5067,163,Thai Fried Rice,Thai,371
+1145,419,Margherita Pizza,Italian,1397
+5513,116,Szechuan Beef,Chinese,1365
+4457,79,Mussels in Garlic Butter,Seafood,932
+8007,350,Tofu Stir-fry,Vegan,1050
+4218,148,Garlic Bread,Appetiser,489
+9762,492,Apple Pie,Desserts,1233
+7495,343,Coffee,Beverage,1379
+6160,262,Kale Salad,Healthy,705
+1270,468,Soufflé,French,1290
+2125,442,Pita Bread,Mediterranean,1284
+8670,119,Ackee and Saltfish,Caribbean,618
+8315,77,Tofu Stir-fry,Vegan,1336
+5299,314,Panna Cotta,Italian,1270
+5565,369,Baba Ganoush,Middle Eastern,993
+1640,4,Corn Dogs,Fast Food,1294
+6216,446,Shrimp Cocktail,Appetiser,348
+3155,436,Tuna Tartare,Seafood,887
+1184,401,Chili Cheese Fries,Fast Food,861
+1017,405,Cupcakes,Desserts,261
+5448,98,Fish & Chips,Main Course,1027
+7408,241,Latte,Beverage,330
+8856,390,Tacos,Mexican,980
+3899,74,Onigiri,Japanese,543
+7017,189,Tonkatsu,Japanese,825
+3532,477,Szechuan Beef,Chinese,1091
+4864,8,Moussaka,Main Course,537
+2924,404,Crème Brûlée,French,1123
+5835,166,Crispy Calamari,Appetiser,738
+1136,403,Carrot Cake,Desserts,1105
+4685,360,Kung Pao Chicken,Chinese,521
+9273,344,Risotto,Italian,234
+6480,455,Eclairs,Desserts,1236
+1088,203,Espresso,Beverage,529
+8307,388,Sweet and Sour Pork,Chinese,1005
+57,125,Stuffed Bell Peppers,Vegan,433
+1670,189,Philly Cheesesteak,American,442
+3386,453,Curry Goat,Caribbean,674
+8023,248,Falafel,Middle Eastern,600
+6893,113,Mushroom Risotto,Vegan,495
+862,230,Fish & Chips,Main Course,1346
+9184,109,Labneh,Middle Eastern,1172
+970,54,Dal Makhani,Indian,309
+2257,361,Char Siu,Chinese,1467
+2541,488,Kimchi,Korean,611
+5,158,Bulgogi,Korean,173
+9229,211,Coffee,Beverage,1042
+4338,155,BBQ Ribs,American,1120
+5277,418,Bruschetta,Appetiser,866
+7921,243,Crème Brûlée,French,1273
+5303,237,Tofu Stir-fry,Vegan,900
+5368,475,Focaccia Bread,Italian,997
+7430,419,Focaccia Bread,Italian,611
+9514,303,Fish & Chips,Main Course,691
+7868,122,Mole Poblano,Mexican,843
+9917,473,Tacos,Fast Food,978
+2243,191,Coq au Vin,French,691
+8673,417,Caprese Salad,Italian,201
+7312,312,Udon,Japanese,1030
+2742,478,Lasagna,Main Course,961
+8845,455,Coq au Vin,French,911
+6190,165,Burgers,Fast Food,409
+77,58,Manchurian,Chinese,1334
+4497,83,Bruschetta,Italian,419
+1116,421,Espresso,Beverage,762
+92,232,Pozole,Mexican,520
+3593,491,Clam Chowder,Seafood,826
+2406,493,Grilled Chicken,Main Course,1321
+9801,249,Hummus with Pita,Appetiser,1248
+3139,150,BBQ Chicken,Main Course,1145
+4659,45,Tuna Tartare,Seafood,378
+1907,254,Okonomiyaki,Japanese,1044
